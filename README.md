@@ -2,6 +2,10 @@
 
 A robot car that's driven live by hand gestures — point your thumb left/right/forward/back or hold up an open palm, and the robot responds in real time over WiFi.
 
+| The robot | Live gesture detection |
+|---|---|
+| ![Gesture-controlled robot car with ESP32 and L298N](images/robot-demo.png) | ![Real-time gesture detection overlay showing last command and FPS](images/gesture-detection.png) |
+
 ## How it works
 
 1. A webcam captures your hand.
